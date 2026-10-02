@@ -9,3 +9,13 @@ select :'ticket_id', user_id, trip_id, :'ticket_code', status, product_code,
        valid_from_utc, valid_to_utc, price, currency
 from tickets
 where id = 'TICKET-1';
+
+-- Checks that it works
+select
+    id,
+    product_code,
+    product_id,
+    price,
+    currency
+from tickets
+where id = 'LAB04-OLD-1';
