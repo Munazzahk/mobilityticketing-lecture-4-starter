@@ -2,8 +2,6 @@
 
 **Group member:** Munazzah Khurshid
 
-**Submitted commit:** 4721b0a
-
 ## Where to find the work
 
 ### Lecture 1 – Design and queries
